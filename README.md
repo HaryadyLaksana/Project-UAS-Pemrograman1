@@ -86,12 +86,12 @@ Database/db_ewallet.sql
 
 ---
 
-## 📸 Screenshot Aplikasi
+## 📸 Screenshots
 
 Screenshot tampilan aplikasi tersedia pada folder:
 
 ```
-Screenshot Aplikasi/
+Screenshots/
 ```
 
 ---
